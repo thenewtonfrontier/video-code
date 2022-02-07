@@ -1,6 +1,3 @@
-from ast import Add
-from tkinter import CENTER
-from turtle import left, up
 from manim import *
 
 class Revolution(ThreeDScene):
